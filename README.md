@@ -23,10 +23,5 @@ Sample output 3: <br>
 Enter word/phrase: Hello World! <br>
 Hello World! is NOT a palindrome <br>
 
-# Implementation of Palindrome Checker
-
-<p align="center">
-  <img src="https://github.com/SG-Hangaan/PalindromeChecker/assets/127215110/628d5cf9-1b7a-4ba7-ac5e-8ef550e7f04d"/>
-</p>
 
 
